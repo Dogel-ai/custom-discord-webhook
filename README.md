@@ -1,2 +1,2 @@
-# custom-discord-webhook
-Sends a customisable webhook from a JSON configuration file 
+# Custom Discord Webhook
+Sends a customisable webhook from a JSON configuration file
